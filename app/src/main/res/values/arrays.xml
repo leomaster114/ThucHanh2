@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ten_quan_co">
+        <item>Vua</item>
+        <item>Hậu</item>
+        <item>Xe</item>
+        <item>Tượng</item>
+        <item>Mã</item>
+        <item>Tốt</item>
+    </string-array>
+    <string-array name="nuoc_di">
+        <item>Vua đi 1 ô một</item>
+        <item>Hậu đi các kiểu</item>
+        <item>Xe đi thẳng đi ngang</item>
+        <item>Tượng đi chéo theo màu</item>
+        <item>Mã đi chữ L</item>
+        <item>Tốt đi thẳng ăn chéo</item>
+    </string-array>
+</resources>
